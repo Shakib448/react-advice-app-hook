@@ -1,1 +1,1 @@
-<img src="src/advice.png"/>ECHO is on.
+<img src="src/advice.png"/>
